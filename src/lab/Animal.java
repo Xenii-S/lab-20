@@ -1,2 +1,5 @@
-package lab;public interface Animal {
+package lab;
+
+public interface Animal {
+    void makeSound();
 }

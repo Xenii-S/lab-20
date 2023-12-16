@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f60f9a85-5a6f-4d58-8907-d6eccce4931e" name="Changes" comment="" />
+    <list default="true" id="f60f9a85-5a6f-4d58-8907-d6eccce4931e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab/ThreeParams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab/ThreeParams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/MinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab3/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab3/Matrix.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
