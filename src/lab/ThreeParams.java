@@ -1,7 +1,7 @@
 package lab;
 import java.io.Serializable;
 
-public class ThreeParams<T extends Comparable<T>, V extends Serializable, K> {
+public class ThreeParams<T extends Comparable<T>, V extends Animal, K extends Serializable> {
     private T valueT;
     private V valueV;
     private K valueK;
